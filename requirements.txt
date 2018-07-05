@@ -1,0 +1,5 @@
+django
+datetime
+djangorestframework
+django-rest-swagger
+python-dateutil
